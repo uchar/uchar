@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**uchar/uchar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on an open source project call Q2a.js in my free times. 
 
-Here are some ideas to get you started:
+It's basically a really fast and seo friendly forum/blog framework on top of Next.js - Which is great at server side rendering.
+ 
+My plan for it is to build an elegant and fast js framework for people who needs a forum/blog/support system/documentation system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/uchar/Q2A.js
+
+I will be more than happy if anyone wants to contribute. 
+
+I'm also a game developer too! And currently working on a fun hyper casual game called Fruity.io
+
+My main experience and knowledge is in AWS services/Node.js/React.js/React.Native/Unity
+
+If there is anything that I can help with, email me at omid.es73@gmail.com 
+
+
