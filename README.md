@@ -1,19 +1,16 @@
 ## Hi there 👋
 
-I'm currently working on an open source project call Q2a.js in my free times. 
+I'm Omid , I work as a fullstack developer and also game developer during the day and opensource developer during the nights
 
-It's basically a really fast and seo friendly forum/blog framework on top of Next.js - Which is great at server side rendering.
- 
-My plan for it is to build an elegant and fast js framework for people who needs a forum/blog/support system/documentation system.
+My main experience and knowledge is in AWS services/Node.js/React.js/React.Native/Next.js/Unity
 
-https://github.com/uchar/Q2A.js
+If there is something that I can help with, don't hesitate to email me : omid.es73@gmail.com .
 
-I will be more than happy if anyone wants to contribute. 
+As the opensource part of my job ,I'm currently working on an open source project call Q2a.js in my free times. It's basically a [fast and seo friendly framework](https://github.com/uchar/Q2A.js) to create your own forum/blog on top of Next.js.
 
-I'm also a game developer too! And currently working on a fun hyper casual game called Fruity.io
 
-My main experience and knowledge is in AWS services/Node.js/React.js/React.Native/Unity
 
-If there is anything that I can help with, email me at omid.es73@gmail.com 
+
+
 
 
