@@ -2,7 +2,7 @@
 
 I'm Omid , I work as a fullstack developer and also game developer during the day and opensource developer during the nights
 
-My main experience and knowledge is in AWS services/Node.js/React.js/React.Native/Next.js/Unity
+My main experience and knowledge is in Unity,AWS,Node.js,React.js,React.Native,Next.js,Qt,C++
 
 If there is something that I can help with, don't hesitate to email me : omid.es73@gmail.com .
 
